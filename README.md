@@ -1,8 +1,9 @@
 ### Hey there,
 
-## I am interested in Android and iOS development.
+## I am interested in Android, iOS and Web development.
 - 🌱 I’m currently learning everything
-- 🎯 Learn, Contribute and Grow
+- 🔭 I'm looking for a job<br>
+- 🎯 Learn, Contribute and Grow  
 
 <br />
 
