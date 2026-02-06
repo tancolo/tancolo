@@ -1,9 +1,10 @@
 ### Hey there,
 
-## I am interested in Android, iOS and Web development.
+## I am interested in Android, iOS, Web development and AI Agentic Coding.
 - 🌱 I’m currently learning everything
-- 🔭 I'm looking for a job<br>
-- 🎯 Learn, Contribute and Grow  
+- 🎯 Learn, Contribute and Grow<br>
+- 🚀 Actively exploring AI Agentic workflows to redefine how we build software<br>
+- 🔭 I'm looking for a job
 
 <br />
 
